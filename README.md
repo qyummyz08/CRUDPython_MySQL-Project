@@ -1,1 +1,1 @@
-# CRUDPython_MySQL-Project
+# Toko Laundry CRUD Application in Python
